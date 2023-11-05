@@ -1,0 +1,83 @@
+is_global = true
+build_property.TargetFramework = net7.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CompanionApp
+build_property.ProjectDir = C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\CompanionApp\CompanionApp\
+
+[C:/Hack4Good/GoodDads/Hack4Good2023-TheWholeApple/CompanionApp/CompanionApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CompanionApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Hack4Good/GoodDads/Hack4Good2023-TheWholeApple/CompanionApp/CompanionApp/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CompanionApp.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Hack4Good/GoodDads/Hack4Good2023-TheWholeApple/CompanionApp/CompanionApp/Controls/HeaderView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CompanionApp.Controls.HeaderView.xaml
+build_metadata.AdditionalFiles.TargetPath = Controls\HeaderView.xaml
+build_metadata.AdditionalFiles.RelativePath = Controls\HeaderView.xaml
+
+[C:/Hack4Good/GoodDads/Hack4Good2023-TheWholeApple/CompanionApp/CompanionApp/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CompanionApp.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Hack4Good/GoodDads/Hack4Good2023-TheWholeApple/CompanionApp/CompanionApp/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CompanionApp.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Hack4Good/GoodDads/Hack4Good2023-TheWholeApple/CompanionApp/CompanionApp/View/AdditionalResources.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CompanionApp.View.AdditionalResources.xaml
+build_metadata.AdditionalFiles.TargetPath = View\AdditionalResources.xaml
+build_metadata.AdditionalFiles.RelativePath = View\AdditionalResources.xaml
+
+[C:/Hack4Good/GoodDads/Hack4Good2023-TheWholeApple/CompanionApp/CompanionApp/View/CaseworkerContact.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CompanionApp.View.CaseworkerContact.xaml
+build_metadata.AdditionalFiles.TargetPath = View\CaseworkerContact.xaml
+build_metadata.AdditionalFiles.RelativePath = View\CaseworkerContact.xaml
+
+[C:/Hack4Good/GoodDads/Hack4Good2023-TheWholeApple/CompanionApp/CompanionApp/View/Dashboard.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CompanionApp.View.Dashboard.xaml
+build_metadata.AdditionalFiles.TargetPath = View\Dashboard.xaml
+build_metadata.AdditionalFiles.RelativePath = View\Dashboard.xaml
+
+[C:/Hack4Good/GoodDads/Hack4Good2023-TheWholeApple/CompanionApp/CompanionApp/View/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CompanionApp.View.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\LoginPage.xaml
+
+[C:/Hack4Good/GoodDads/Hack4Good2023-TheWholeApple/CompanionApp/CompanionApp/View/Notifications.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CompanionApp.View.Notifications.xaml
+build_metadata.AdditionalFiles.TargetPath = View\Notifications.xaml
+build_metadata.AdditionalFiles.RelativePath = View\Notifications.xaml
+
+[C:/Hack4Good/GoodDads/Hack4Good2023-TheWholeApple/CompanionApp/CompanionApp/View/RegisterPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CompanionApp.View.RegisterPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\RegisterPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\RegisterPage.xaml
+
+[C:/Hack4Good/GoodDads/Hack4Good2023-TheWholeApple/CompanionApp/CompanionApp/View/TabbedPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CompanionApp.View.TabbedPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\TabbedPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\TabbedPage.xaml

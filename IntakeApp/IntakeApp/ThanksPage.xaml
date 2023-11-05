@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="IntakeApp.ThanksPage"
+             Title="ThanksPage"
+             Shell.NavBarIsVisible="False">
+    <VerticalStackLayout>
+        <StackLayout BackgroundColor="#20421d">
+            <Image Source="horizontalwhitelogo.png"
+                       Aspect="AspectFit"
+                       VerticalOptions="CenterAndExpand"
+                       HorizontalOptions="Center"
+                       HeightRequest="100"
+                       Margin="40"/>
+
+        </StackLayout>
+        <Label 
+            Text="Thanks for completing the form. Please return the tablet to the desk."
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" 
+            Padding="100" />
+    </VerticalStackLayout>
+</ContentPage>

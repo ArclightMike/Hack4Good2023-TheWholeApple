@@ -1,0 +1,182 @@
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/appsettings.Development.json
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/appsettings.json
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/GoodDadsAPI
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/GoodDadsAPI.deps.json
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/GoodDadsAPI.runtimeconfig.json
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/GoodDadsAPI.dll
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/GoodDadsAPI.pdb
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/MediatR.dll
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/MediatR.Contracts.dll
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.csproj.AssemblyReference.cache
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.AssemblyInfoInputs.cache
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.AssemblyInfo.cs
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.csproj.CoreCompileInputs.cache
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.MvcApplicationPartsAssemblyInfo.cs
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/staticwebassets/msbuild.GoodDadsAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/staticwebassets/msbuild.build.GoodDadsAPI.props
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.GoodDadsAPI.props
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.GoodDadsAPI.props
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/staticwebassets.pack.json
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/staticwebassets.build.json
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/staticwebassets.development.json
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/scopedcss/bundle/GoodDadsAPI.styles.css
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.csproj.CopyComplete
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.dll
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/refint/GoodDadsAPI.dll
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.pdb
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.genruntimeconfig.cache
+/Volumes/Macintosh HD - Data/Shared/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/ref/GoodDadsAPI.dll
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/appsettings.Development.json
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/appsettings.json
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/GoodDadsAPI.exe
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/GoodDadsAPI.deps.json
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/GoodDadsAPI.runtimeconfig.json
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/GoodDadsAPI.dll
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/GoodDadsAPI.pdb
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/MediatR.dll
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/MediatR.Contracts.dll
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.csproj.AssemblyReference.cache
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.AssemblyInfoInputs.cache
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.AssemblyInfo.cs
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.csproj.CoreCompileInputs.cache
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/staticwebassets/msbuild.GoodDadsAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/staticwebassets/msbuild.build.GoodDadsAPI.props
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.GoodDadsAPI.props
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.GoodDadsAPI.props
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/staticwebassets.pack.json
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/staticwebassets.build.json
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/staticwebassets.development.json
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/scopedcss/bundle/GoodDadsAPI.styles.css
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.csproj.CopyComplete
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.dll
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/refint/GoodDadsAPI.dll
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.pdb
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.genruntimeconfig.cache
+C:/CodeScientists/OneDrive/OneDrive - Code Scientists LLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/ref/GoodDadsAPI.dll
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/appsettings.Development.json
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/appsettings.json
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/GoodDadsAPI
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/GoodDadsAPI.deps.json
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/GoodDadsAPI.runtimeconfig.json
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/GoodDadsAPI.dll
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/GoodDadsAPI.pdb
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/MediatR.dll
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/MediatR.Contracts.dll
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.csproj.AssemblyReference.cache
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.AssemblyInfoInputs.cache
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.AssemblyInfo.cs
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.csproj.CoreCompileInputs.cache
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/staticwebassets/msbuild.GoodDadsAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/staticwebassets/msbuild.build.GoodDadsAPI.props
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.GoodDadsAPI.props
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.GoodDadsAPI.props
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/staticwebassets.build.json
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/staticwebassets.development.json
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/scopedcss/bundle/GoodDadsAPI.styles.css
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.csproj.CopyComplete
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.dll
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/refint/GoodDadsAPI.dll
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.pdb
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/GoodDadsAPI.genruntimeconfig.cache
+/Users/mikeford/Library/CloudStorage/OneDrive-CodeScientistsLLC/hack4good/Hack4Good/GoodDads/GoodDadsAPI/GoodDadsAPI/obj/Debug/net7.0/ref/GoodDadsAPI.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\appsettings.json
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\GoodDadsAPI.exe
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\GoodDadsAPI.deps.json
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\GoodDadsAPI.runtimeconfig.json
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\GoodDadsAPI.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\GoodDadsAPI.pdb
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\MediatR.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\obj\Debug\net7.0\GoodDadsAPI.csproj.AssemblyReference.cache
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\obj\Debug\net7.0\GoodDadsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\obj\Debug\net7.0\GoodDadsAPI.AssemblyInfoInputs.cache
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\obj\Debug\net7.0\GoodDadsAPI.AssemblyInfo.cs
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\obj\Debug\net7.0\GoodDadsAPI.csproj.CoreCompileInputs.cache
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\obj\Debug\net7.0\GoodDadsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\obj\Debug\net7.0\GoodDadsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\obj\Debug\net7.0\staticwebassets\msbuild.GoodDadsAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.GoodDadsAPI.props
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GoodDadsAPI.props
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GoodDadsAPI.props
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\obj\Debug\net7.0\scopedcss\bundle\GoodDadsAPI.styles.css
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\obj\Debug\net7.0\GoodDadsAPI.csproj.CopyComplete
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\obj\Debug\net7.0\GoodDadsAPI.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\obj\Debug\net7.0\refint\GoodDadsAPI.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\obj\Debug\net7.0\GoodDadsAPI.pdb
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\obj\Debug\net7.0\GoodDadsAPI.genruntimeconfig.cache
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\obj\Debug\net7.0\ref\GoodDadsAPI.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Hack4Good\GoodDads\Hack4Good2023-TheWholeApple\GoodDadsAPI\GoodDadsAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll

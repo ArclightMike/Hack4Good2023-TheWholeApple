@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CompanionApp.Controls.HeaderView">
+    <ContentView.Content>
+        <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+            <Grid RowSpacing="0" >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="40"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="40"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Image Grid.Row="0" Grid.Column="0" HeightRequest="50"  Grid.ColumnSpan="3" Source="HeaderImage" BackgroundColor="#20421d" HorizontalOptions="FillAndExpand" Aspect="Fill"></Image>
+                <Image Grid.Row="0" x:Name="btnMenu" Margin="5,0,0,0" Source="Menu" Aspect="AspectFit" HorizontalOptions="Start" VerticalOptions="CenterAndExpand"  Grid.Column="0"></Image>
+                <Label Grid.Row="0" x:Name="lblHeader" Grid.Column="1"   FontSize="Medium"  FontAttributes="Bold" TextColor="White" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"></Label>
+            </Grid>
+        </StackLayout>
+    </ContentView.Content>
+</ContentView>

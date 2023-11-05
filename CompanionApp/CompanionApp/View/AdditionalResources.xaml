@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CompanionApp.View.AdditionalResources"
+             BackgroundColor="#dfdfdf"
+             NavigationPage.HasNavigationBar="False">
+
+    <Grid>
+        <Image Source="whitebackground.jpg"
+               Aspect="AspectFill"
+               VerticalOptions="FillAndExpand"
+               HorizontalOptions="FillAndExpand" />
+
+        <VerticalStackLayout Padding="40">
+            <Label Margin="5" Text="Your Case Worker"  TextColor="Black" Grid.Row="0" Grid.ColumnSpan="2" FontAttributes="Bold" FontSize="Medium"/>
+            <BoxView HeightRequest="2" Color="LightSlateGrey" Grid.Row="0" Grid.ColumnSpan="2" VerticalOptions="End" HorizontalOptions="FillAndExpand"/>
+            <Grid>
+                <Grid.RowDefinitions >
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width ="*"/>
+                    <ColumnDefinition Width=" *"/>
+                   
+                </Grid.ColumnDefinitions>
+                <Label Margin="25" x:Name="ContactName"
+                       Grid.Row="0" Grid.Column="0"
+                        Text="Alice Hall - Cohort Leader"
+                        TextColor="Black"
+                        FontSize="24"
+                        FontAttributes="Bold"
+                        FontFamily="Montserrat-ExtraBold"
+                        VerticalOptions="Center" 
+                        HorizontalOptions="Start"/>
+                <VerticalStackLayout Margin="25,0,0,0" Grid.Row="1" Grid.Column="0">
+                    <Label  x:Name="ContactEmail"
+                        Text="ahall@gooddads.email"
+                        TextColor="Black"
+                        FontFamily="Montserrat-Regular"
+                        VerticalOptions="Center" 
+                        HorizontalOptions="Start"
+                        />
+
+                    <Label x:Name="ContactPhone"
+                        Text="(555)-555-5555"
+                        TextColor="Black"
+                        FontFamily="Montserrat-Regular"
+                        VerticalOptions="Center" 
+                        HorizontalOptions="Start"/>
+                </VerticalStackLayout>
+                <Image Grid.RowSpan="2" Grid.Column="1" Source="placeholder.png" MaximumHeightRequest="200" VerticalOptions="Center"  HorizontalOptions="Center"/>
+            </Grid>
+           
+           
+
+
+            <Label Margin="15" Text="Resources"  TextColor="Black" Grid.Row="0" Grid.ColumnSpan="2" FontAttributes="Bold" FontSize="Medium"/>
+            <BoxView HeightRequest="2" Color="LightSlateGrey" Grid.Row="0" Grid.ColumnSpan="2" VerticalOptions="End" HorizontalOptions="FillAndExpand"/>
+            <Frame Margin="0,10,0,0" BackgroundColor="LightGray">
+                <Grid RowSpacing="25">
+                <Grid.RowDefinitions >
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width ="*"/>
+                    <ColumnDefinition Width=" *"/>
+                    <ColumnDefinition Width=" *"/>
+                </Grid.ColumnDefinitions>
+
+
+                    <Button Grid.Row="0" Grid.Column="0" IsEnabled="True"
+                                    Clicked="ResourcesButtonClicked"
+                                    BackgroundColor="#56a345"
+                                    Text="Our Website"
+                                    FontSize="12" 
+                                    FontFamily="Montserrat-ExtraBold" 
+                                    FontAttributes="Bold"
+                                    TextColor="#fff">
+                        <Button.Shadow>
+                            <Shadow Brush="Black" Opacity="0.5" Radius="4" Offset="5,5" />
+                        </Button.Shadow>
+                    </Button>
+
+
+                    <Button Grid.Row="0" IsEnabled="True" Grid.Column="1"
+                                BackgroundColor="#56a345"
+                                Clicked="FAQButtonClicked"
+                                Text="Podcast"
+                                FontSize="12" 
+                                FontFamily="Montserrat-ExtraBold" 
+                                 TextColor="#fff"
+                                FontAttributes="Bold">
+                        <Button.Shadow>
+                            <Shadow Brush="Black" Opacity="0.5" Radius="4" Offset="5,5" />
+                        </Button.Shadow>
+                    </Button>
+
+
+
+
+                    <Button IsEnabled="True"
+                                   Grid.Row=" 0"
+                                   Grid.Column="3"
+                                   Clicked="NewsletterClicked"
+                                  Text="Newsletter"
+                                  FontSize="12" 
+                                  FontFamily="Montserrat-ExtraBold" 
+                                  FontAttributes="Bold"
+                                  TextColor="#fff"
+                                  BackgroundColor="#56a345">
+                        <Button.Shadow>
+                            <Shadow Brush="Black" Opacity="0.5" Radius="4" Offset="5,5" />
+                        </Button.Shadow>
+                    </Button>
+
+
+                </Grid>
+    </Frame>
+    </VerticalStackLayout>
+    </Grid>
+
+</ContentPage>

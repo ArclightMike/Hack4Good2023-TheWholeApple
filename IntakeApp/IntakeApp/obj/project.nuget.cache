@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "4tXbdXQal4pWD9pnFpYlmtonwvXla6y6k3BAG9e1rWhex3LVAgY08q5HQBWq3jtzzXO8AfxmaJTxLu0SKhF/Zg==",
+  "success": false,
+  "projectFilePath": "C:\\Hack4Good\\Public\\Hack4Good2023-TheWholeApple\\IntakeApp\\IntakeApp\\IntakeApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\14173\\.nuget\\packages\\microsoft.maui.essentials.ref.android\\6.0.552\\microsoft.maui.essentials.ref.android.6.0.552.nupkg.sha512",
+    "C:\\Users\\14173\\.nuget\\packages\\microsoft.android.runtime.31.android-x86\\32.0.485\\microsoft.android.runtime.31.android-x86.32.0.485.nupkg.sha512",
+    "C:\\Users\\14173\\.nuget\\packages\\microsoft.maui.controls.ref.android\\6.0.552\\microsoft.maui.controls.ref.android.6.0.552.nupkg.sha512",
+    "C:\\Users\\14173\\.nuget\\packages\\microsoft.maui.core.runtime.android\\6.0.552\\microsoft.maui.core.runtime.android.6.0.552.nupkg.sha512",
+    "C:\\Users\\14173\\.nuget\\packages\\microsoft.android.runtime.31.android-x64\\32.0.485\\microsoft.android.runtime.31.android-x64.32.0.485.nupkg.sha512",
+    "C:\\Users\\14173\\.nuget\\packages\\microsoft.android.runtime.31.android-arm64\\32.0.485\\microsoft.android.runtime.31.android-arm64.32.0.485.nupkg.sha512",
+    "C:\\Users\\14173\\.nuget\\packages\\microsoft.maui.controls.runtime.android\\6.0.552\\microsoft.maui.controls.runtime.android.6.0.552.nupkg.sha512",
+    "C:\\Users\\14173\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-arm\\6.0.16\\microsoft.aspnetcore.app.runtime.linux-arm.6.0.16.nupkg.sha512",
+    "C:\\Users\\14173\\.nuget\\packages\\microsoft.maui.core.ref.android\\6.0.552\\microsoft.maui.core.ref.android.6.0.552.nupkg.sha512",
+    "C:\\Users\\14173\\.nuget\\packages\\microsoft.android.ref.31\\32.0.485\\microsoft.android.ref.31.32.0.485.nupkg.sha512",
+    "C:\\Users\\14173\\.nuget\\packages\\microsoft.android.runtime.31.android-arm\\32.0.485\\microsoft.android.runtime.31.android-arm.32.0.485.nupkg.sha512",
+    "C:\\Users\\14173\\.nuget\\packages\\microsoft.maui.essentials.runtime.android\\6.0.552\\microsoft.maui.essentials.runtime.android.6.0.552.nupkg.sha512",
+    "C:\\Users\\14173\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-arm64\\6.0.16\\microsoft.aspnetcore.app.runtime.linux-arm64.6.0.16.nupkg.sha512",
+    "C:\\Users\\14173\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.16\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.16.nupkg.sha512",
+    "C:\\Users\\14173\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.28\\microsoft.windows.sdk.net.ref.10.0.19041.28.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform version is not present for one or more target frameworks, even though they have specified a platform: net6.0-ios, net6.0-maccatalyst"
+    }
+  ]
+}

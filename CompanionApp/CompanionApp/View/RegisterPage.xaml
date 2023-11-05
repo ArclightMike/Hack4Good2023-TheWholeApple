@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CompanionApp.View.RegisterPage"
+             Title="RegisterPage"
+             NavigationPage.HasNavigationBar="False">
+    
+    <StackLayout BackgroundColor="#dfdfdf"
+                 Spacing="100">
+        <StackLayout BackgroundColor="#20421d">
+            <Image Source="horizontalwhitelogo.png"
+                   Aspect="AspectFit"
+                   VerticalOptions="CenterAndExpand"
+                   HorizontalOptions="Center"
+                   HeightRequest="100"
+                   Margin="40">
+            </Image>
+        </StackLayout>
+        <Rectangle MinimumHeightRequest="100"
+           MinimumWidthRequest="20">
+        </Rectangle>
+        <Label 
+            Text=""
+            VerticalOptions="Center" 
+            HorizontalOptions="Center"
+            TextColor="Red"
+            x:Name="Error"/>
+        <Rectangle MinimumHeightRequest="100"
+           MinimumWidthRequest="20">
+        </Rectangle>
+        <Label 
+            Text="Note: Only users who have completed their paperwork with Good Dads and have their email on file can register."
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Label 
+            Text="Please use the same email you used to complete your Good Dads paperwork."
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Entry x:Name="UsernameEntry" 
+               Placeholder="Username"
+               FontFamily="Montserrat-Regular"
+               WidthRequest="300"
+               BackgroundColor="White"
+               VerticalOptions="Center"/>
+        <Rectangle 
+           MinimumHeightRequest="10"
+           MinimumWidthRequest="20">
+        </Rectangle>
+        <Label 
+            Text="Create your password"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Entry x:Name="PasswordEntry" 
+               Placeholder="Create Password" 
+               IsPassword="True"
+               FontFamily="Montserrat-Regular"
+               WidthRequest="300"
+               BackgroundColor="White"
+               VerticalOptions="Center"/>
+        <Rectangle 
+           MinimumHeightRequest="20"
+           MinimumWidthRequest="20">
+        </Rectangle>
+
+        <Button x:Name="RegisterButton"
+                Text="Register" 
+                FontSize="24" 
+                FontFamily="Montserrat-ExtraBold" 
+                FontAttributes="Bold"
+                TextColor="#56a345"
+                BorderColor="Black"
+                Clicked="OnRegisterButtonClicked"
+                WidthRequest="200"
+                BackgroundColor="White"
+                />
+
+        <Rectangle 
+           MinimumHeightRequest="40"
+           MinimumWidthRequest="20">
+        </Rectangle>
+        <Rectangle BackgroundColor="#20421d"
+                   MinimumHeightRequest="100"
+                   MinimumWidthRequest="100"
+                   VerticalOptions="EndAndExpand">
+        </Rectangle>
+    </StackLayout>
+</ContentPage>

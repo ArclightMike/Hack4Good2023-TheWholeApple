@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "xHvhz2JN5Nj44XsWC3J2dDUDSyDu3WpFlYUCJaNH8fue61nk/TuNW421e9PpfdY2k8qmQCfrIRlkBd2dtVg7jA==",
+  "success": false,
+  "projectFilePath": "C:\\Hack4Good\\GoodDads\\Hack4Good2023-TheWholeApple\\CompanionApp\\CompanionApp\\CompanionApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\14173\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.28\\microsoft.windows.sdk.net.ref.10.0.19041.28.nupkg.sha512",
+    "C:\\Users\\14173\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.5\\microsoft.aspnetcore.app.runtime.win-x64.7.0.5.nupkg.sha512",
+    "C:\\Users\\14173\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.5\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.5.nupkg.sha512",
+    "C:\\Users\\14173\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.5\\microsoft.netcore.app.runtime.win-x64.7.0.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform version is not present for one or more target frameworks, even though they have specified a platform: net6.0-maccatalyst"
+    }
+  ]
+}

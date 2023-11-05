@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="IntakeApp.MainPage"
+             Shell.NavBarIsVisible="False">
+
+    <ScrollView>
+
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+            <StackLayout BackgroundColor="#20421d">
+                <Image Source="horizontalwhitelogo.png"
+                       Aspect="AspectFit"
+                       VerticalOptions="CenterAndExpand"
+                       HorizontalOptions="Center"
+                       HeightRequest="100"
+                       Margin="40"/>
+
+            </StackLayout>
+
+
+            <Label
+                Text="Intake Form"
+                SemanticProperties.HeadingLevel="Level1"
+                FontSize="32"
+                HorizontalOptions="Center" />
+
+            <Grid Padding="10">
+                <!-- Row Definitions -->
+                <Grid.RowDefinitions>
+                    <!-- Name Row -->
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <!-- Address Row -->
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <!-- Address 2 Row -->
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+
+                    <!-- City State Zip GRID Row -->
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <!-- Email Row -->
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <!-- Phone Row -->
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+
+                </Grid.RowDefinitions>
+
+                <!-- Column Definitions -->
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <!-- First Row -->
+                <Label Text="First Name" Grid.Row="1" Grid.Column="0" />
+                <Entry Grid.Row="0" Grid.Column="0" x:Name="firstName"/>
+                <Label Text="Last Name" Grid.Row="1" Grid.Column="1" />
+                <Entry Grid.Row="0" Grid.Column="1" x:Name="lastName"/>
+
+                <!-- Second Row -->
+                <Label Text="Address" Grid.Row="3" Grid.Column="0" />
+                <Entry  Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" x:Name="address" />
+
+                <!-- Third Row -->
+                <Label Text="Address 2" Grid.Row="5" Grid.Column="0" />
+                <Entry  Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" x:Name="address2"/>
+
+
+
+                <!-- Nested Grid for the city zip state row with 3 columns -->
+                <Grid Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="35" />
+                        <RowDefinition Height="35" />
+                    </Grid.RowDefinitions>
+                    <Label Text="City" Grid.Row="1" Grid.Column="0"/>
+                    <Entry Grid.Column="0" Grid.Row="0" x:Name="city"/>
+                    <Label Text="State" Grid.Row="1" Grid.Column="1"/>
+                    <Entry  Grid.Column="1" Grid.Row="0" x:Name="state" />
+                    <Label Text="Zip" Grid.Row="1" Grid.Column="3"/>
+                    <Entry  Grid.Column="2" Grid.Row="0" x:Name="zip"/>
+                </Grid>
+                <!-- Fifth Row -->
+                <Label Text="Email" Grid.Row="8" Grid.Column="0" />
+                <Entry  Grid.Row="7" Grid.Column="0" x:Name="email" />
+                <Label Text="Alternate Contact" Grid.Row="8" Grid.Column="1" />
+                <Entry  Grid.Row="7" Grid.Column="1" x:Name="alt" />
+
+                <!-- Sixth Row -->
+                <Label Text="Home/Cell" Grid.Row="10" Grid.Column="0" />
+                <Entry Grid.Row="9" Grid.Column="0" x:Name="phone"/>
+                <Label Text="Work Phone" Grid.Row="10" Grid.Column="1" />
+                <Entry Grid.Row="9" Grid.Column="1" x:Name="work"/>
+
+            </Grid>
+            <Grid x:Name="DynamicGrid" Margin="5"
+          RowSpacing="10"
+          ColumnSpacing="10"
+          Padding="0">
+                <Grid.RowDefinitions>
+                    <!-- Initial Entry -->
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <!-- Initial Entry -->
+                <!--<Label Text="Child Support Amount" Grid.Row="0" Grid.Column="0" />-->
+                <Entry Grid.Row="0" Grid.Column="0" x:Name="childSupport" Placeholder="Child Support Amount"/>
+                <!--<Label Text="Child's Birthday" Grid.Row="0" Grid.Column="1" />-->
+                <DatePicker Grid.Row="0" Grid.Column="1" x:Name="birthday" />
+
+
+                <!-- Button to add more Entries -->
+                <Button Grid.Row="2" Grid.Column="0" Text="Add Another Child" Clicked="AddEntry_Clicked"
+                 WidthRequest="200" HorizontalOptions="Start" BackgroundColor="#20421d"/>
+                <Button x:Name="submit"  Grid.Row="2" Grid.Column="1" Text="Submit" Clicked="OnOvalTapped" WidthRequest="200" HorizontalOptions="End" BackgroundColor="#20421d"/>
+                <!--<Frame 
+                   Grid.Row="3" Grid.Column="1"
+                   CornerRadius="5"
+                   WidthRequest="300"
+                   HeightRequest="100"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"
+                   BackgroundColor="#20421d">
+                    <Grid >
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Image Grid.Row="0" Grid.Column="0" Source="paperplanesolid.svg" 
+                           Aspect="AspectFit"
+                           HorizontalOptions="Center"
+                           VerticalOptions="Center"/>
+                        <Label Grid.Row="0" Grid.Column="1" Text="Submit" TextColor="White"
+                           HorizontalOptions="Center"
+                           VerticalOptions="Center"/>
+                    </Grid>
+
+                    <Frame.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="OnOvalTapped"/>
+                    </Frame.GestureRecognizers>
+                </Frame>-->
+
+            </Grid>
+
+
+
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
