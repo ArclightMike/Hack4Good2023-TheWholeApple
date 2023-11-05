@@ -30,8 +30,6 @@ namespace GoodDads.Services.Intake.SaveIntakeInformation
         public string Email { get; set; }
 
         public List<DependentRequestModel> Dependents { get; set; } = new List<DependentRequestModel>();
-
-        public MaritalStatus MaritalStatus { get; set; }
     }
 
     public sealed class SaveIntakeResponse
