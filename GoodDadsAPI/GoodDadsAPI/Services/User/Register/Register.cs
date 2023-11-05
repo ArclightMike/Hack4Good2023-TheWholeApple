@@ -58,11 +58,11 @@ namespace GoodDads.Services.User.Login
 
             if (login is not null && string.IsNullOrEmpty(login.Password))
             {
-                var user = dadRepository.GetByEmail(request.Email);
+                var user = await dadRepository.GetByEmail(request.Email);
             
                 var loginData = new LoginSchema
                 {
-                    UserID = user.Id,
+                    UserID = user.UserID,
                     Password = request.Password,
                 };
 
